@@ -8,6 +8,6 @@ public class SeaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SeaApplication.class, args);
-	}
+	} 
 
 }

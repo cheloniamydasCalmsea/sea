@@ -10,6 +10,7 @@ public class TestController {
 	public String getJsonResponse() {
         // JSON 데이터 생성
         String jsonString = "{\"say\":\"hello\"}";
+        String jsonString2 = "{\"say\":\"hello\"}";
 
         return jsonString;
     }
